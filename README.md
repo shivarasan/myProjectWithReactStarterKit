@@ -1,4 +1,4 @@
-This is my project using react starter kit templete
-In Order to run this project
+This is my project using react starter kit template
+In Order to run this project <br>
    --yarn install
    --yarn start
